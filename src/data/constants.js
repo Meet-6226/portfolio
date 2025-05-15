@@ -6,7 +6,7 @@ export const Bio = {
     "Software Engineer"
   ],
   description:
-    "I am currently a 1st-year B.Tech student in Computer Science and Engineering, based in Kharghar. With a strong interest in software development and problem-solving, I actively participate in hackathons to sharpen my technical and teamwork skills. I’ve already taken part in multiple hackathons and have been a finalist twice, which has further fueled my passion for building innovative solutions and learning from real-world challenges.",
+    "I am currently a 1st-year B.Tech student in Computer Science and Engineering, in ITM Skills University, based in Kharghar. With a strong interest in software development and problem-solving, I actively participate in hackathons to sharpen my technical and teamwork skills. I’ve already taken part in multiple hackathons and have been a finalist twice, which has further fueled my passion for building innovative solutions and learning from real-world challenges.",
   github: "https://github.com/meet-6226",
   resume: "https://drive.google.com/file/d/19pP-1EWqRaepw1SLq5nG0IaE2ME82oLb/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/meet-alshi/",
